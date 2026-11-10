@@ -49,9 +49,9 @@ Our three final submissions are three variants of the same feature-engineering p
 
 | Notebook | Approach | Model | CV (5-fold) | Public LB | Private LB |
 |---|---|---|---:|---:|---:|
-| [`submission_6_-_trio___cat_with_new_columns___log.ipynb`](submission_6_-_trio___cat_with_new_columns___log.ipynb) | Full ensemble | (2 × XGBoost/LightGBM/HistGB + 2 × CatBoost + logistic regression) / 5 | acc 0.7003, AUC 0.7749 | 0.70333 | 0.68542 |
-| [`submission_7_-_cat_boost_only___tuned.ipynb`](submission_7_-_cat_boost_only___tuned.ipynb) | Single model, different architecture from the ensemble | CatBoost (5 seeds, tuned hyperparameters) | acc 0.6968, AUC 0.7730 | 0.70400 | 0.68657 |
-| [`submission_8_-_terna___logistic__tuned.ipynb`](submission_8_-_terna___logistic__tuned.ipynb) | Safety net, no CatBoost | (3 × XGBoost/LightGBM/HistGB + logistic regression) / 4 | acc 0.6984, AUC 0.7728 | 0.69866 | **0.68771** |
+|submission_6_-_trio___cat_with_new_columns___log.ipynb| Full ensemble | (2 × XGBoost/LightGBM/HistGB + 2 × CatBoost + logistic regression) / 5 | acc 0.7003, AUC 0.7749 | 0.70333 | 0.68542 |
+| submission_7_-_cat_boost_only___tuned.ipynb | Single model, different architecture from the ensemble | CatBoost (5 seeds, tuned hyperparameters) | acc 0.6968, AUC 0.7730 | 0.70400 | 0.68657 |
+| submission_8_-_terna___logistic__tuned | Safety net, no CatBoost | (3 × XGBoost/LightGBM/HistGB + logistic regression) / 4 | acc 0.6984, AUC 0.7728 | 0.69866 | **0.68771** |
 
 
 ## 🧩 Feature engineering, in short
