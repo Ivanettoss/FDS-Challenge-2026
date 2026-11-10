@@ -1,4 +1,4 @@
-<img src="pk.jpg" alt="Pokémon Battle Prediction banner" width="100%">
+
 
 <h1 align="center">FDS Challenge 2026 — Pokémon Battle Prediction</h1>
 
