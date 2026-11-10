@@ -6,7 +6,7 @@
   <a href="https://www.kaggle.com/competitions/fds-pokemon-battles-prediction-2026"><img src="https://img.shields.io/badge/Kaggle-Competition-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle competition"></a>
 </p>
 
-<p align="center"><b>Team Fantastic Four</b> — solution for the Kaggle competition <a href="https://www.kaggle.com/competitions/fds-pokemon-battles-prediction-2026"><i>FDS Pokémon Battles Prediction 2026</i></a>, Fundamentals of Data Science course.</p>
+<p align="center"><b>Team Fantastic Four: Annika Annika Unm¨ußig, Francesco Anatriello, Valentina Foschi, Ivan Dalla Ragione</b> — solution for the Kaggle competition <a href="https://www.kaggle.com/competitions/fds-pokemon-battles-prediction-2026"><i>FDS Pokémon Battles Prediction 2026</i></a>, Fundamentals of Data Science course.</p>
 
 ---
 
