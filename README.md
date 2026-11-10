@@ -1,12 +1,9 @@
-<!-- <img src="assets/pk.jpg" alt="Pokémon Battle Prediction banner" width="100%"> -->
+<img src="assets/pk.jpg" alt="Pokémon Battle Prediction banner" width="100%">
 
 <h1 align="center">FDS Challenge 2026 — Pokémon Battle Prediction</h1>
 
 <p align="center">
   <a href="https://www.kaggle.com/competitions/fds-pokemon-battles-prediction-2026"><img src="https://img.shields.io/badge/Kaggle-Competition-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle competition"></a>
-  <img src="https://img.shields.io/badge/Task-Binary%20Classification-6A4C93" alt="Task">
-  <img src="https://img.shields.io/badge/Models-XGBoost%20%7C%20LightGBM%20%7C%20HistGB%20%7C%20CatBoost-orange" alt="Models">
-  <img src="https://img.shields.io/badge/No%20Neural%20Nets-Classic%20ML%20only-brightgreen" alt="Classic ML only">
 </p>
 
 <p align="center"><b>Team Fantastic Four</b> — solution for the Kaggle competition <a href="https://www.kaggle.com/competitions/fds-pokemon-battles-prediction-2026"><i>FDS Pokémon Battles Prediction 2026</i></a>, Fundamentals of Data Science course.</p>
