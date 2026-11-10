@@ -32,8 +32,6 @@ Key rules of the competition:
 | 🔍 **Validation** | No access to test labels — all validation is cross-validation on the training set |
 | 📤 **Submissions** | One prediction per `battle_id`, max 3 per day, deadline **05/11/2026** |
 
-Our submissions page: <https://www.kaggle.com/competitions/fds-pokemon-battles-prediction-2026/submissions>
-
 ## 📊 The dataset
 
 | File | Content |
